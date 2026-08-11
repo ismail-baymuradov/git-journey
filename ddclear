@@ -1,0 +1,49 @@
+[33mcommit cef53ad291ea5fbda2e5f82644fe5e2b31546524[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mstaging[m[33m, [m[1;32mdevelopment[m[33m)[m
+Merge: ca3740f 0082de5
+Author: Ismail Baymuradov <ismailbaymuradov1@gmail.com>
+Date:   Tue Aug 11 19:02:00 2026 +0300
+
+    Conflict solved, I just removed it manually
+
+[33mcommit ca3740fcf6a1397d0f514e2dfcd96ebed86da339[m
+Author: Ismail Baymuradov <ismailbaymuradov1@gmail.com>
+Date:   Tue Aug 11 18:59:47 2026 +0300
+
+    Added 444 to four
+
+[33mcommit 0082de579ed8145a629819fd3ad1105bcba18ca8[m
+Author: Ismail Baymuradov <ismailbaymuradov1@gmail.com>
+Date:   Tue Aug 11 18:59:16 2026 +0300
+
+    I added 44 to four
+
+[33mcommit e45e4e3e55b6154b2683673876efdd4dd0c5e180[m
+Merge: 6cb295a 724ec9a
+Author: Ismail Baymuradov <ismailbaymuradov1@gmail.com>
+Date:   Tue Aug 11 18:56:30 2026 +0300
+
+    Merging main into dev cause we made change there and now we want to sync it
+
+[33mcommit 724ec9a8f3adc458a453cabe6555cf2c499ec8f1[m
+Author: Ismail Baymuradov <ismailbaymuradov1@gmail.com>
+Date:   Tue Aug 11 18:54:38 2026 +0300
+
+    I removed 4 from four
+
+[33mcommit 6cb295a17b6d3383d54e469357cb676e442471eb[m
+Author: Ismail Baymuradov <ismailbaymuradov1@gmail.com>
+Date:   Tue Aug 11 18:51:19 2026 +0300
+
+    I created eight
+
+[33mcommit 2a7375fe7232daf860f95fd76d0295cdfec04045[m
+Author: Ismail Baymuradov <ismailbaymuradov1@gmail.com>
+Date:   Tue Aug 11 18:42:25 2026 +0300
+
+    NOTHING
+
+[33mcommit 23e1eacf097e6fc0442c97bae3c8d99b87cf7113[m
+Author: ismail-baymuradov <ismailbaymuradov1@gmail.com>
+Date:   Tue Aug 11 16:03:40 2026 +0300
+
+    Create one.txt
